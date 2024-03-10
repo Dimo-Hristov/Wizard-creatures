@@ -1,0 +1,2 @@
+# wizard-creatures
+SSR project
